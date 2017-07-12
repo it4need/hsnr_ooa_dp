@@ -1,7 +1,6 @@
 /**
  * Decorator design pattern
  *
- *
  * @package    hsnr_ooa_dp
  * @file       Decorator.h
  * @copyright  Copyright © 12.07.17 by Jan Andrè Schlösser

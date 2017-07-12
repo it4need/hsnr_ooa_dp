@@ -3,5 +3,5 @@ project(hsnr_ooa_dp)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp Strategy.h Observer.h Decorator.h)
+set(SOURCE_FILES main.cpp Strategy.h Observer.h Decorator.h Singleton.h)
 add_executable(hsnr_ooa_dp ${SOURCE_FILES})

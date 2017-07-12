@@ -2,8 +2,9 @@
 #include "Observer.h"
 #include "Decorator.h"
 #include "Singleton.h"
+#include "State.h"
 
 int main() {
-    singletonMain();
+    stateMain();
     return 0;
 }

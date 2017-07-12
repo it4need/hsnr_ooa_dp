@@ -99,7 +99,7 @@ public:
 int decoratorMain() {
     IPizza *pizza = new TamatoSauceDecorator(new OriganoDecorator(new SalamiDecorator(new TeichPizza())));
 
-    std::cout << pizza->beschreibung();
+    std::cout << pizza->beschreibung() << std::endl;
     std::cout << pizza->preis();
 
     return 0;

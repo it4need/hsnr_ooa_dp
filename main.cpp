@@ -1,6 +1,7 @@
 #include "Strategy.h"
 #include "Observer.h"
+#include "Decorator.h"
 int main() {
-    observerMain();
+    decoratorMain();
     return 0;
 }

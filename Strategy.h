@@ -198,7 +198,7 @@ public:
     }
 };
 
-int stratgy_main()
+int stratgyMain()
 {
     Sportler sportler = Sportler();
     IT_Student it_studnent = IT_Student();

@@ -12,11 +12,6 @@
 
 #include <iostream>
 #include "State/Geldautomat.h"
-#include "State/HasCard.h"
-#include "State/HasPin.h"
-#include "State/IGeldautomatState.h"
-#include "State/NoCard.h"
-#include "State/NoCash.h"
 
 /*
  * Zustände:
